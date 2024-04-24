@@ -20,3 +20,7 @@ java Main
 Hello World
 ```
 VS Code မှာတော့ တိုက်ရိုက် run ကြည့်လို့ရမယ်။
+
+
+## User Input
+

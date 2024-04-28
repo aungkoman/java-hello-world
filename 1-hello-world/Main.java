@@ -5,15 +5,15 @@ public class Main {
         System.out.println("This is text output");
         System.out.println("------------");
         System.out.println(3);
-        System.out.println(3 + 3);
-        System.out.println(2 * 5);
+        System.out.println(3 + 3); // 6 
+        System.out.println(2 * 5); // 10 
         // This is a comment
         System.out.println("Above comment does not execute"); // // This is a comment
 
         /*
           The code below will print the words Hello World
           to the screen, and it is amazing
-         */
+        */
         System.out.println("");
     }
 }
